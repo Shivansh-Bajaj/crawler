@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: crawler
+Version: 0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: garima jain && Shivansh Bajaj
+Author-email: bajajshivansh1@gmail.com
+License: UNKNOWN
+Description: crawler is class to crawl your website get all the links and store in in data base . After you can search in database
+        	to crawl your site you need to call crawl function with your site name argument. To search in database call search function with search keyword as argumne
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 
+Classifier: Topic :: Utilities
+Classifier: License :: 
